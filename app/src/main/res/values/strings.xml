@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Alarm</string>
+    <string name="set">Установить</string>
+    <string name="reset">Сбросить</string>
+    <string name="disabled">Будильник не установлен</string>
+    <string name="enabled">"Будильник установлен на время: "</string>
+    <string name="current_day">"Текущий день: "</string>
+    <string name="today_sunrise">"Рассвет сегодня: "</string>
+    <string name="today_sunset">"Закат сегодня: "</string>
+    <string name="tomorrow_sunrise">"Рассвет завтра: "</string>
+    <string name="tomorrow_sunset">"Закат завтра: "</string>
+    <string name="unavailable">Информация недоступна</string>
+    <string name="no">Нет</string>
+    <string name="repeat">Повторять ежедневно</string>
+    <string name="attach_photo">Добавление фото</string>
+    <string name="load_fail">Ошибка загрузки данных о будильнике</string>
+    <string name="active_alarm_list">Запущенные будильники</string>
+    <string name="no_active_alarms">Нет запущенных будильников</string>
+    <string name="add">Добавить</string>
+    <string name="signal">Сигнал</string>
+    <string-array name="ringtones">
+        <item>Звук будильника по умолчанию</item>
+        <item>Звук звонка по умолчанию</item>
+    </string-array>
+</resources>
